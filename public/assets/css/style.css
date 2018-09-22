@@ -1,0 +1,72 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 80px;
+  background-color: f5f5f5;
+}
+
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.panel.panel-default .panel-heading {
+  background-color: #72b8f1;
+  position: relative;
+}
+
+.panel.panel-default .panel-heading h3 {
+  color: white;
+}
+
+.panel.panel-default .panel-heading .btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.panel.panel-default .panel-heading .btn.delete {
+  right: 160px;
+}
+
+.panel.panel-default .panel-body {
+  font-size: 16px;
+}
+
+.panel.panel-default .panel-heading .article-link {
+  color: white;
+  display: inline-block;
+  width: 80%;
+}
+
+
+
+.scrape-new {
+  cursor: pointer;
+}
+
+.m-top-80 {
+  margin-top: 80px;
+}
+
+textarea {
+  padding: 10px;
+  resize: none;
+}
+
+.bootbox-body .btn {
+  float: right;
+  margin: 5px;
+}
+
+.note.list-group-item {
+  padding: 30px;
+}
+
+.note.list-group-item .btn {
+  position: relative;
+  bottom: 10px;
+}
